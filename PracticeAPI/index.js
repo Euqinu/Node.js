@@ -15,5 +15,5 @@ app.use(function(err,req,res,next){
 
 
 app.listen(3000,function(req,res){
-	console.log("the port is running");
+	console.log("the port is running well");
 })
